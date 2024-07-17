@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/btnAdicionar"
+        android:icon="@drawable/baseline_assignment_add"
+        android:title="Adicionar" />
+    <item
+        android:id="@+id/btnListar"
+        android:icon="@drawable/baseline_list"
+        android:title="Listar" />
+</menu>
