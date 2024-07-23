@@ -23,6 +23,7 @@ class AnotacaoAdapter: Adapter<AnotacaoAdapter.anotacaoViewHolder>() {
 
             val binding : ItemListagemBinding = itemView
 
+        //essa função
             fun bind(anotacao: Anotacao){
                 binding.textTitulo.text = anotacao.titulo
                 binding.textDescicao.text = anotacao.descricao
