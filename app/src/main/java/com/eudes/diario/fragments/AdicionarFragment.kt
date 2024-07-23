@@ -50,7 +50,7 @@ class AdicionarFragment : Fragment() {
 
 
         binding?.btnSalvar?.setOnClickListener {
-            if (binding!!.editTextTitulo.text.toString().isNotEmpty()){
+            if (binding!!.editTextTitulo.text.toString().isNotEmpty() && binding!!.editTextDescricao.text.toString().isNotEmpty()){
                 salvar()
             }else{
                 Toast.makeText(requireContext(), "Um dos campos vazios", Toast.LENGTH_SHORT).show()
