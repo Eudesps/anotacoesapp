@@ -7,6 +7,6 @@ Bem-vindo ao App de Anotações! Este é um aplicativo simples e eficiente para 
 - Banco de Dados SQLite: Todas as anotações são armazenadas localmente usando o banco de dados SQLite, garantindo que seus dados estejam sempre disponíveis, mesmo offline.
 - RecyclerView: As anotações são exibidas em uma RecyclerView, permitindo uma visualização organizada e rolável.
 
-##
+## Demonstração do app funcionando
 https://github.com/user-attachments/assets/0150a6dd-59a4-4cb0-b11d-961be7d9d164
 
